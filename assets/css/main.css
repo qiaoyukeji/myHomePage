@@ -220,6 +220,7 @@ a:hover {
 #header .name{
 	color:#fff;
 	font-weight:600;
+	font-size: 0.75em;
     letter-spacing: -0.025em;
     line-height: 1.75em;
 	height: 0.5em;
